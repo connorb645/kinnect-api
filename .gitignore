@@ -1,12 +1,6 @@
-Packages
-.build
-xcuserdata
-*.xcodeproj
-DerivedData/
+.build/
+.swiftpm/
 .DS_Store
-db.sqlite
-.swiftpm
 .env
-.env.*
-!.env.example
-default.profraw
+DerivedData/
+
